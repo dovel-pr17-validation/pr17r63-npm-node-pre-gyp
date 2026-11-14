@@ -23,7 +23,7 @@
     "node": ">=18"
   },
   "dependencies": {
-    "consola": "^3.2.3",
+    "consola": "^3.4.2",
     "detect-libc": "^2.0.0",
     "https-proxy-agent": "^7.0.5",
     "node-fetch": "^2.6.7",
